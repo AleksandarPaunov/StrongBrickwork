@@ -1,0 +1,16 @@
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.exe
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.deps.json
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.runtimeconfig.json
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.runtimeconfig.dev.json
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.dll
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\Brickwork.pdb
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.csprojAssemblyReference.cache
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.AssemblyInfoInputs.cache
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.AssemblyInfo.cs
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.dll
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.pdb
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\Brickwork.genruntimeconfig.cache
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\bin\Debug\net5.0\ref\Brickwork.dll
+C:\Users\Sparky\Desktop\Junk\Brickwork-master\Brickwork\obj\Debug\net5.0\ref\Brickwork.dll
